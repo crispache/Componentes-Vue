@@ -3,3 +3,4 @@ Repositorio que contiene todo sobre el curso Componentes en Vue desde cero (http
 Está organizado en los siguientes capítulos:
 
 * ¿Qué son los componentes?
+* Propiedades dinámicas
