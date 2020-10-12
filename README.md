@@ -6,3 +6,4 @@ Está organizado en los siguientes capítulos:
 * Propiedades dinámicas
 * Componentes globales y locales
 * Plantillas de componentes
+* Eventos personalizados
