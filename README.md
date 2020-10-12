@@ -5,3 +5,4 @@ Está organizado en los siguientes capítulos:
 * ¿Qué son los componentes?
 * Propiedades dinámicas
 * Componentes globales y locales
+* Plantillas de componentes
