@@ -7,3 +7,4 @@ Está organizado en los siguientes capítulos:
 * Componentes globales y locales
 * Plantillas de componentes
 * Eventos personalizados
+* Componentes dentro de componentes
