@@ -8,3 +8,4 @@ Está organizado en los siguientes capítulos:
 * Plantillas de componentes
 * Eventos personalizados
 * Componentes dentro de componentes
+* Distribuye contenido con slots
