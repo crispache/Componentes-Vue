@@ -10,3 +10,4 @@ Está organizado en los siguientes capítulos:
 * Componentes dentro de componentes
 * Distribuye contenido con slots
 * Cómo utilizar v-model en componentes
+* Componentes dinámicos
