@@ -9,3 +9,4 @@ Está organizado en los siguientes capítulos:
 * Eventos personalizados
 * Componentes dentro de componentes
 * Distribuye contenido con slots
+* Cómo utilizar v-model en componentes
